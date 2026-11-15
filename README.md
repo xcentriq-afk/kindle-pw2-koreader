@@ -40,6 +40,7 @@ The "easy" methods people recommend have traps that are not obvious:
 
 | Directory / file | Purpose |
 |---|---|
+| `docs/INSTALL-EN.md` | Step-by-step guide (English) |
 | `docs/INSTALL-PL.md` | Step-by-step guide (Polish) |
 | `docs/FIRMWARE-TABLE.md` | Which jailbreak for which firmware |
 | `docs/EXTENSIONS.md` | Optional KUAL extensions |
