@@ -1,0 +1,7 @@
+# Downloaded by scripts/download.sh — do not commit
+downloads/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
